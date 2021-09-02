@@ -1,0 +1,79 @@
+
+ [  {
+   "picture":"images/ibeano.jpg",
+   "description":"A blissful destination for tourists stretched over 245km on a sand bank in Ibeno lies the Ibeno Beach, a little haven for leisure seekers. The roaring waves, spots for sunbathing, unpolluted foliage of the mangrove forest, cool breeze from the water and a lush surrounding give this destination an unimaginable allure for tourists.",
+   "title":"The Ibeno Beach",
+   "location":" Ibeno Beach, Akwa Ibom State",
+   "rating":3.0
+ },
+   {
+     "picture":"images/obudu.jpg",
+     "description":"Above the sea level on the Oshie Ridge of the famous Sankwala Mountains sits majestically the Obudu Mountain Resort. The temperate climate, breathtaking views, idyllic tranquility and beautiful scenery has made this resort one of the famous tourists’ sites in Nigeria.",
+     "title":"Obudu Mountain Resort",
+     "location":"Obudu Mountain Resort, Cross River State",
+     "rating":3.0
+   },
+   {
+     "picture":"images/ngwo.jpg",
+     "description":"The unique forest dynasty that is found in Ngwo Pine is a huge draw for visitors, romantically set by Mother Nature with sharp twists for adventure seekers, beautifully set pine trees and gently flowing stream for lovers, and the loud splashing of the waters inside the dark cleft inside a cave would blow off one’s imagination.",
+     "title":"Ngwo Pine Forest",
+     "location":"Ngwo Pine Forest, Enugu State",
+     "rating":3.0
+   },
+  {
+    "picture":"images/awum.jpg",
+    "description":"Awhum boasts of numerous immaculate lakes, waterfall and a monastery. The waterfall forms beautiful scenery where water cascades over its top forming a stream, which has become a religious tourist site. It is close to the Awhum Monastery.\n\n",
+    "title":"Awhum Waterfall",
+    "location":"Awhum Waterfall, Enugu State",
+    "rating":3.0
+  },
+  {
+    "picture":"images/the_giant.jpg",
+    "description":"In a sacred grove where prehistory meets the modern, between a village called Ukhuse-oke and Ukhuseosi lies this distinct footprints of a prehistoric giant that are embedded permanently on flat granite rocks.\n\n",
+    "title":"The Giant Footprint of Ukhuse Oke",
+    "location":"The Giant Footprint of Ukhuse Oke, Edo State",
+    "rating":3.0
+  },
+  {
+    "picture":"images/Port-Harcourt-Tourist-Beach-780x582.jpeg",
+    "description":"If you are looking for a destination where you can run away from the bustling life of a city; one that is built on an artificial sand beach, Port Harcourt Tourist Beach is where you should be. It is a leisure hub along Kolabi Creek.",
+    "title":"Port Harcourt Tourist Beach",
+    "location":" Port Harcourt  Tourist Beach, Rivers State",
+    "rating":3.0
+  },
+  {
+    "picture":"images/Gashaka-Gumti-National-Park-780x585.jpg",
+    "description":"A national park that offers a fascinating insight into life in medieval times in Nigeria is the Gashaki-Gumpti National Park. It is located within the Chappal Wadi, Mountain, Chappal Hendu and the Mountain of Wind. It is Nigeria’s largest and most diverse National Park.",
+    "title":"Gashaki-Gumpti National Park",
+    "location":" Gashaki-Gumpti National Park, Taraba State",
+    "rating":3.0
+  },
+  {
+    "picture":"images/Alok-Ikom-Monoliths.jpg",
+    "description":"300 carved stones standing upright in circles, facing each others in groups with images and texts inscribed on the monoliths are how you would see Alok Ikom Monoliths (UNESCO World Heritage Site) that are in form of a phallus.",
+    "title":"Alok Ikom Monoliths",
+    "location":"  Ikom Monoliths, Cross River state",
+    "rating":3.0
+  },
+  {
+    "picture":"images/Isaac-Boro-Peace-Park.jpg",
+    "description":"Isaac Boro Garden Park is situated opposite the Mile One Bridge along the Old GRA in Port Harcourt. Today, it has become a tourist location where baseball and softball are played and a center for trade fairs and live entertainment. The tomb of Major Isaac Boro, a soldier killed in the Nigeria Civil War lies here.",
+    "title":"Isaac Boro Garden Park",
+    "location":"  Isaac Boro Garden Park Nigeria",
+    "rating":3.0
+  },
+  {
+    "picture":"images/Tinapa-Business-And-Leisure-Resort-Cross-River-State.jpg",
+    "description":"The charm of Calabar mingled with the taste of its rich culture gives Tinapa Free Zone & Resort that magnificent scenario that mesmerizes tourists. It has 860,000 sq ft lettable retail space, an entertainment strip that houses a digital cinema, restaurants, a mini amphitheater, casino, and children’s arcade, a Studio Tinapa for Nollywood, a night club and pubs. Visit: Tinapa Free Zone and Resort",
+    "title":"The Tinapa Free Zone & Resort",
+    "location":" Tinapa Free Zone & Resort Calabar, Cross River State",
+    "rating":3.0
+  },
+  {
+    "picture":"images/Osun-Osogbo-Grove-780x585.jpg",
+    "description":"This is the only tourist destination in Nigeria that has sacred shrines, sanctuaries, sculptures and art works that are created in the honour of the goddess of fertility, Osun. It is a UNESCO World Heritage Site situated along the Oshun River.\n\n",
+    "title":" Osun-Osogbo Grove",
+    "location":"Oshogbo Grove, Osun State",
+    "rating":3.0
+  }
+]
